@@ -1,0 +1,2 @@
+# paremeters-> total num == 1; current id == 0; ckpt path (of .pt file)
+bash ./script/eval_simplerenv/meta_test_SimplerEnv/simpler_cal_easy.sh 1 0 path/to/cronusvla_7B_bridge_rt_1/checkpoints/step-055000-epoch-04-loss=0.0286.pt &
