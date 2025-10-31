@@ -61,7 +61,7 @@
 
 
 <div align="center">
-  <img src="./asset/teaser.png" alt="framework" width="80%">
+  <img src="./asset/Nteaser.png" alt="framework" width="80%">
 </div>
 
 ---
