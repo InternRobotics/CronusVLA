@@ -25,7 +25,7 @@
   <a href="https://arxiv.org/abs/2506.19816/">
     <img src="https://img.shields.io/badge/Paper-2506.19816-green" alt="arXiv">
   </a>
-  <a href="https://LiHaoHN.github.io/CronusVLA.github/">
+  <a href="https://lihaohn.github.io/CronusVLA.github.io/">
     <img src="https://img.shields.io/badge/Homepage-%F0%9F%8C%90-blue" alt="Homepage">
   </a>
   <a href="https://huggingface.co/JeasLee/models">
