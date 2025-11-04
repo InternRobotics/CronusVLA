@@ -39,17 +39,6 @@
   </a>
 </p>
 
-## 📋 Contents
-
-- [🔥 Overview](#overview)
-- [⚙️ Installation](#getting_started)
-- [📥 Downloading](#Downloading)
-- [📊 Evaluating CronusVLA](#Evaluating)
-- [💪 Training CronusVLA](#Training)
-- [📌 TODO](#todo)
-- [🔗 Citation](#citation)
-- [👏 Acknowledgements](#acknowledgements)
-
 
 ## 🔥 Overview <a id="overview"></a>
 
@@ -63,6 +52,19 @@
 <div align="center">
   <img src="./asset/Nteaser.png" alt="framework" width="80%">
 </div>
+
+---
+## 📋 Contents
+
+- [🔥 Overview](#overview)
+- [⚙️ Installation](#getting_started)
+- [📥 Downloading](#Downloading)
+- [📊 Evaluating CronusVLA](#Evaluating)
+- [💪 Training CronusVLA](#Training)
+- [📌 TODO](#todo)
+- [🔗 Citation](#citation)
+- [👏 Acknowledgements](#acknowledgements)
+
 
 ---
 
