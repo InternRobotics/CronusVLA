@@ -17,7 +17,7 @@
   <img src="./asset/Ncronusvla.png" alt="Tech Glow Animation" width="21%" />
 </a>
 <a href="https://github.com/LiHaoHN/SimX-OR">
-  <img src="./asset/Nsimx-or.png" alt="Tech Glow Animation" width="15%" />
+  <img src="./asset/simx-or.png" alt="Tech Glow Animation" width="15%" />
 </a>
 </p>
 
